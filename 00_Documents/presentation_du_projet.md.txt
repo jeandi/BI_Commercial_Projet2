@@ -1,0 +1,19 @@
+# Présentation du Projet BI Commercial
+
+## Objectif :
+Mettre en place un système décisionnel pour une PME afin d’analyser, suivre et piloter les performances commerciales (ventes, clients, produits).
+
+## Problème actuel :
+Les données sont éparpillées (Excel, facturation, e-mails) → perte de temps, erreurs de reporting, pas de vue claire.
+
+## Solution proposée :
+Créer un entrepôt de données + tableaux de bord interactifs pour :
+- Visualiser les ventes en temps réel.
+- Identifier les clients à fort potentiel.
+- Optimiser les stocks et la stratégie commerciale.
+
+## Rôle du système décisionnel :
+- Centraliser les données dans un référentiel unique.
+- Automatiser le traitement et le nettoyage.
+- Fournir des tableaux de bord avec KPIs clairs.
+- Aider à la prise de décision rapide et pertinente.

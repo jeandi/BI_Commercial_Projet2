@@ -1,0 +1,76 @@
+# Enjeux du projet BI Commercial
+
+## 🎯 Objectif principal
+
+Développer un système de Business Intelligence permettant aux dirigeants de suivre, analyser et prendre des décisions stratégiques basées sur des données commerciales fiables.
+
+## 🔍 Enjeux métiers
+
+- Fournir une vision claire des performances commerciales (ventes, marges, objectifs).
+- Réduire la charge manuelle d’analyse des données.
+- Aider à l’identification rapide des points forts et faibles (produits, zones, équipes).
+- Centraliser les données de sources multiples (ERP, Excel, etc.).
+
+## ⚙️ Enjeux techniques
+
+- Assurer la qualité et la fiabilité des données.
+- Mettre en place un pipeline de transformation (ETL).
+- Structurer les données dans une base (ex : SQLite).
+- Créer des dashboards interactifs et dynamiques avec Power BI.
+
+## 📈 Livrables attendus
+
+- Fichiers de données nettoyés (CSV, Excel ou base SQLite).
+- Tableaux de bord Power BI prêts à l’usage.
+- Documentation du projet (technique + fonctionnelle).
+
+
+
+# Enjeux du Projet : Système Décisionnel pour l'Analyse des Ventes
+
+## 🎯 Enjeux Stratégiques
+- Permettre à la PME de prendre des décisions éclairées basées sur des données fiables.
+- Renforcer la compétitivité de l’entreprise en répondant plus rapidement aux évolutions du marché.
+- Identifier les opportunités de croissance (produits, clients, régions).
+- Alignement des actions commerciales et marketing avec les objectifs globaux de l'entreprise.
+- Amélioration continue des performances grâce à des analyses historiques et prédictives.
+
+## 📈 Enjeux Opérationnels
+- Réduire significativement le temps consacré à la production de rapports de ventes.
+- Améliorer la qualité des données (fiabilité, cohérence, fraîcheur).
+- Automatiser le reporting pour les équipes commerciales, marketing et direction.
+- Mettre à disposition des tableaux de bord interactifs accessibles par tous les profils métier.
+- Détecter les anomalies rapidement (ruptures, baisses soudaines, écarts aux objectifs).
+
+## 💰 Enjeux Économiques
+- Optimiser les stocks en fonction des produits à rotation rapide ou lente.
+- Réduire les coûts liés à la mauvaise anticipation des ventes.
+- Maximiser la marge par produit, client et segment de marché.
+- Identifier les clients à forte valeur pour mieux cibler les actions commerciales.
+
+## 👨‍💼 Enjeux Métier
+- Mieux comprendre les comportements d’achat des clients.
+- Segmenter les clients pour des actions marketing ciblées (cross-selling, fidélisation).
+- Mesurer l’impact des promotions sur le chiffre d’affaires et la rentabilité.
+- Prioriser les efforts commerciaux selon la rentabilité réelle par zone ou canal.
+
+## 🛠️ Enjeux Techniques
+- Intégrer les données dispersées provenant de différentes sources (Excel, facturation, etc.).
+- Créer un modèle de données fiable, scalable et facile à maintenir.
+- Choisir des outils BI adaptés aux contraintes de la PME (coût, simplicité, efficacité).
+- Garantir la sécurité, la confidentialité et la conformité des données (RGPD).
+
+## 👥 Enjeux Humains et Organisationnels
+- Fédérer les équipes autour d’un outil commun d’aide à la décision.
+- Faciliter l’appropriation des outils BI par des non-techniciens.
+- Réduire la dépendance aux équipes techniques pour produire des analyses.
+- Renforcer la culture de la donnée dans l’organisation.
+
+## 📚 Enjeux de Formation et d’Accompagnement
+- Former les utilisateurs à l’usage des tableaux de bord.
+- Documenter les règles de gestion, les calculs de KPIs, et les bonnes pratiques.
+- Accompagner le changement pour garantir l’adoption du système décisionnel.
+
+---
+
+> Ce document doit évoluer au fil du projet, notamment après les ateliers de recueil des besoins métier.

@@ -1,0 +1,93 @@
+# 📊 Besoins Fonctionnels et KPIs par Utilisateur
+
+## Objectif
+
+Identifier les besoins spécifiques de chaque type d’utilisateur du système décisionnel, ainsi que les indicateurs clés de performance (KPIs) qu’ils souhaitent suivre au quotidien.
+
+---
+
+## 👥 Parties prenantes et besoins
+
+### 1. Direction Générale
+- **Objectif :** Piloter la performance globale.
+- **Besoins fonctionnels :** Vue d’ensemble synthétique, rapports mensuels automatisés.
+- **KPIs :**
+  - Chiffre d'affaires global
+  - Résultat net / Marge nette
+  - Taux de croissance mensuel
+  - ROI (Retour sur investissement)
+
+---
+
+### 2. Responsable Commercial
+- **Objectif :** Optimiser les ventes et les performances des équipes.
+- **Besoins fonctionnels :** Tableaux détaillés par produit, canal, région et commercial.
+- **KPIs :**
+  - CA par commercial, région, produit
+  - Taux de conversion leads > ventes
+  - Panier moyen
+  - Nombre de ventes / jour / mois
+
+---
+
+### 3. Responsable Marketing
+- **Objectif :** Évaluer l’efficacité des campagnes et la connaissance client.
+- **Besoins fonctionnels :** Suivi des campagnes marketing et analyse des profils clients.
+- **KPIs :**
+  - Taux de conversion par campagne
+  - Coût d’acquisition client (CAC)
+  - Taux de fidélisation / rétention
+  - Nombre de nouveaux clients
+
+---
+
+### 4. Commerciaux
+- **Objectif :** Suivre leur performance individuelle et relancer les prospects.
+- **Besoins fonctionnels :** Tableau de suivi personnel avec alertes et objectifs.
+- **KPIs :**
+  - Chiffre d’affaires personnel
+  - Nombre de leads traités
+  - Taux de closing
+  - Délai moyen de transformation d’un lead
+
+---
+
+### 5. Équipe Finance
+- **Objectif :** Suivi des marges et des coûts.
+- **Besoins fonctionnels :** Détail des dépenses, des produits vendus et des prévisions budgétaires.
+- **KPIs :**
+  - Résultat net
+  - Marge brute / produit
+  - Coût des ventes (COGS)
+  - Rentabilité par segment
+
+---
+
+### 6. Logistique / Stock
+- **Objectif :** Anticiper les ruptures et optimiser la rotation des stocks.
+- **Besoins fonctionnels :** Prévisions de ventes et gestion des approvisionnements.
+- **KPIs :**
+  - Taux de rupture de stock
+  - Taux de rotation des stocks
+  - Niveau de stock moyen
+  - Délai de réapprovisionnement
+
+---
+
+### 7. Administrateur IT / Data Engineer
+- **Objectif :** Maintenir la qualité et l’automatisation du système décisionnel.
+- **Besoins fonctionnels :** Surveillance des flux de données et gestion des accès.
+- **KPIs :**
+  - Taux de disponibilité des rapports
+  - Nombre d'erreurs ou d’échecs de mise à jour
+  - Temps de réponse moyen des dashboards
+  - % de données à jour
+
+---
+
+## ✅ Prochaines étapes
+
+- Valider ces besoins auprès des utilisateurs réels
+- Hiérarchiser les KPIs selon les priorités du projet
+- Créer un dictionnaire des KPIs (définitions, calculs, sources)
+
