@@ -1,0 +1,20 @@
+# Sources de données du projet BI Commercial
+
+## 1. Données internes simulées
+
+- **Produits** : fichier Excel `produits.xlsx`
+- **Ventes** : fichier CSV `ventes.csv`
+- **Clients** : fichier Excel `clients.xlsx`
+- **Stocks** : base SQLite `stocks.db`
+- **Performances commerciales** : fichier Excel `performances_commerciaux.xlsx`
+
+## 2. Données externes (optionnelles)
+
+- Tableaux de benchmarks sectoriels (source externe)
+- API de taux de change (si international)
+
+## 3. Observations
+
+- Les formats doivent être standardisés.
+- Un contrôle de qualité sera à prévoir lors de l'import.
+
